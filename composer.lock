@@ -3880,7 +3880,7 @@
             "time": "2015-05-29T06:29:14+00:00"
         },
         {
-            "name": "mikey179/vfsStream",
+            "name": "mikey179/vfs-stream",
             "version": "v1.6.4",
             "source": {
                 "type": "git",
